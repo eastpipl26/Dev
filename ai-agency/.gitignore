@@ -1,0 +1,14 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Outputs (raw 데이터는 크고 재생성 가능)
+outputs/raw/
+
+# IDE
+.vscode/
+.idea/
